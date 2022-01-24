@@ -1,4 +1,4 @@
-package test.steve;
+package steve;
 
 public class LoginTestCase {
     //commit 1
