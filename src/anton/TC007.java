@@ -1,10 +1,11 @@
-package Anton;
+package anton;
 
-public class LoginTestCase {
+public class TC007 {
 
     public static void main(String[] args) {
 
         System.out.println("test");
         // more stuff
+        // more more stuff stuff
     }
 }
